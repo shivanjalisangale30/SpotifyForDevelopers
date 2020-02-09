@@ -4,19 +4,14 @@ import io.restassured.response.Response;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class Spotify {
 
-    String authorization;
+    String authorization = "Bearer BQAzWaBu8ulH5_G2DztbafRtDqcLrpADrAv0sAgSpnQtXPTicqMXLnYQRI9QeXd2_ooHemPh0N7VZQgBEXv9EenYyJajnyHQvv9q3zVVtdJa0Yqnf6gu6Wf2OOvPKwoVX6WYu9hWSVWbHOKJKZpeDU6aZyekJwJVyKXO_" +
+            "vgG6HsUmGNaDa62QEwJGdl9YddRNlfxb5uYmTVs0Xsi1RK7MjUX_S-rKE4ean6pzbWOU88suI8YBzS4UNfWwL3bk-hav21O5vTN5usEfl4AAjlNrD7Noip2Fgcokw";
     Object userId;
     Object playListId;
-
-    @BeforeMethod
-    public void setUp() {
-        authorization = "Bearer BQClNKz7GpJelkkp-80wESxxA94TpZ7bn2paZIOgL5oH4ZM_X02vrrY0svGnBGLVLVVtbSERHHsA7jrS7lnwJX1yn0QJlXpN_lvI-iG5Gi24UoxFNWsoOwX9RVHvpt9JklO6RXn329810E4_ceLFy12Cq_e71qLPd65Vf_GgbloYpbCj38hrQGWI4oOYP93Ads_q0s_2LlD3KeixB6Wp_rgFvPAyAz1RvpqohvwiLbyGU3tjXmobVyytBLmMSC1Sg96JLay95bKLPGhWkMqbR5nmZPbjbwJDpg\"";
-    }
 
     @Test
     public void givenURL_WhenOpen_PerformOpeartion() throws ParseException {
