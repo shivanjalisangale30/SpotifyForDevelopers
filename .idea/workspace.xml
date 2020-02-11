@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0b618fa-38b4-47d1-9fa7-ce00911884de" name="Default Changelist" comment="" />
+    <list default="true" id="d0b618fa-38b4-47d1-9fa7-ce00911884de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/News.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Spotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Spotify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/Spotify.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/Spotify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-Spotify.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-Spotify.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Spotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Spotify.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +51,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XSzuAoP8obe4oOFVUafg69yDQK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,12 +63,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PowerCalculatorAPI" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Gradle.Spotify.givenURL_WhenOpen_PerformOpeartion">
+  <component name="RunManager" selected="Gradle.Spotify">
     <configuration name="Restassured" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -149,8 +173,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Spotify.givenURL_WhenOpen_PerformOpeartion" />
         <item itemvalue="Gradle.Spotify" />
+        <item itemvalue="Gradle.Spotify.givenURL_WhenOpen_PerformOpeartion" />
         <item itemvalue="Gradle.Spotify.givenURL_WhenOpen_GetUserId" />
         <item itemvalue="Gradle.Restassured.givenURL_WhenOpen_GetUserId" />
         <item itemvalue="Gradle.Restassured" />
@@ -175,26 +199,26 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="311" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1581054684190" />
-    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581148146473">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581217018061">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581148146473" />
-    <state width="1253" height="560" key="GridCell.Tab.0.bottom" timestamp="1581150246891">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1581217018061" />
+    <state width="1253" height="560" key="GridCell.Tab.0.bottom" timestamp="1581243030506">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="560" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581150246891" />
-    <state width="1253" height="560" key="GridCell.Tab.0.center" timestamp="1581150246891">
+    <state width="1253" height="560" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581243030506" />
+    <state width="1253" height="560" key="GridCell.Tab.0.center" timestamp="1581243030505">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="560" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581150246891" />
-    <state width="1253" height="560" key="GridCell.Tab.0.left" timestamp="1581150246890">
+    <state width="1253" height="560" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581243030505" />
+    <state width="1253" height="560" key="GridCell.Tab.0.left" timestamp="1581243030504">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="560" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581150246890" />
-    <state width="1253" height="560" key="GridCell.Tab.0.right" timestamp="1581150246891">
+    <state width="1253" height="560" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581243030504" />
+    <state width="1253" height="560" key="GridCell.Tab.0.right" timestamp="1581243030505">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="560" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581150246891" />
+    <state width="1253" height="560" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581243030505" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1581140210660">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -215,14 +239,14 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1581067974961" />
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581145969299">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1581233878781">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581145969299" />
-    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1581148149000">
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1581233878781" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1581156965751">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1581148149000" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1581156965751" />
     <state x="380" y="175" key="run.anything.popup" timestamp="1581143125615">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

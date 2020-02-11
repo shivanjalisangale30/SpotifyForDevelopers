@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Spotify" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-08T07:41:46" hostname="admin1-HP-EliteBook-Folio-9480m" time="4.673">
+<testsuite name="Spotify" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-09T10:07:46" hostname="admin1-HP-EliteBook-Folio-9480m" time="3.261">
   <properties/>
-  <testcase name="givenURL_WhenOpen_PerformOpeartion" classname="Spotify" time="4.673"/>
+  <testcase name="givenURL_WhenOpen_PerformOpeartion" classname="Spotify" time="3.261"/>
   <system-out><![CDATA[User Name :Sangale Shivanjali
 User id   :31ej7mmkqe6ltls7iqyyftbjps2u
-List Of All Playlist : 12
-Play List Id : 5PVsFoDQGhfpNrVByKf8NF
+List Of All Playlist : 13
+Play List Id : 4N4yt321kifqI7gzG9FeRT
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
